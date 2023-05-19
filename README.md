@@ -1,1 +1,7 @@
-# Teba_Sign_Auto
+本项目可以使用linux内crontab命令实现自动签到，log保存在本地请自行探索。
+
+首次使用先打开setting.py,从你的贴吧主页获取Cookie,从like_url页面的data值中获取tbs数据填入缺失的数值。 Cookie可以只获取BDUSS与STOKEN，其余自行学习 然后即可运行主程序。
+
+本项目本想使用webdriver自动获取header信息，但是过于繁琐，不如自行复制黏贴。
+
+headers等数据若失效请及时更新。
