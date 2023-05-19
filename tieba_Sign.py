@@ -2,7 +2,7 @@
 # @Software : PyCharm
 # @Time : 2023/5/19 0:35
 # @File : tieba_Sign.py
-# @Python Version : Python3.10
+# @Python Version : 3.10
 # @Core : 向'http://tieba.baidu.com/sign/add'提交kw与tbs数据即可完成签到,使用前请先运行get_into.py
 
 import datetime
